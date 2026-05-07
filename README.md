@@ -1,4 +1,4 @@
-# dozeinject
+# DozeInject
 
 Cybersecurity learner focused on web security, networking fundamentals, and hands-on labs.
 
